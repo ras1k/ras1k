@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasik Abdullah</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-<img width="400" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
+<img width="600" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras1k" alt="ras1k" /></a> </p>
 
