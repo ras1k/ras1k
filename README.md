@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasik Abdullah</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-<video width="320" height="240" controls>
-  <source src="[movie.mp4](https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018)" type="video/mp4">
-</video>
+<img width="320" height="240" src="[movie.mp4](https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018)"></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras1k" alt="ras1k" /></a> </p>
 
