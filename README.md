@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rasik Abdullah</h1>
-<h3 align="left">A passionate Web Developer from Bangladesh</h3>
+<h3 align="left">🚀 Computer Science Graduate | Front-End Web Developer | React.js Enthusiast</h3>
 
 <img width="1000" align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
 
