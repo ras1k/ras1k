@@ -3,8 +3,6 @@
 
 <img width="1000" align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras1k" alt="ras1k" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ras1k_" target="blank"><img src="https://img.shields.io/twitter/follow/ras1k_?logo=twitter&style=for-the-badge" alt="ras1k_" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs, Redux**
@@ -33,4 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ras1k&show_icons=true&locale=en" alt="ras1k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ras1k&" alt="ras1k" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ras1k" alt="ras1k" /></a> </p>
+
 
