@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ras1k-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, javascript, tailwind**
+- 💬 Ask me about **Web Technology**
 
 - 📫 How to reach me **rasikabdullah@gmail.com**
 
