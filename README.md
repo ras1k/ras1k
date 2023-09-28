@@ -1,13 +1,14 @@
 <h1 align="left">Hi 👋, I'm Rasik Abdullah</h1>
 <h3 align="left">🚀 Computer Science Graduate | Front-End Web Developer | React.js Enthusiast</h3>
-<h3 align="left">🌐 I specialize in crafting delightful user experiences with React.js, and I'm passionate about creating dynamic and responsive web applications.</h3>
 
 <img width="1000" align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
 
 <p align="left"> <a href="https://twitter.com/ras1k_" target="blank"><img src="https://img.shields.io/twitter/follow/ras1k_?logo=twitter&style=for-the-badge" alt="ras1k_" /></a> </p>
 
+- 🌐 I specialize in crafting delightful user experiences with React.js, and I'm passionate about creating dynamic and responsive web applications.
+  
 - 🌱 I’m currently learning **NextJs, Redux**
-
+  
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ras1k-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web Technology**
@@ -15,9 +16,10 @@
 - 📫 How to reach me **rasikabdullah@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1q1qPfQvi9Gfb-IQ2fIILOmwQoh03kykg)
-
-📂 Check out my GitHub repositories to see my latest projects, code samples, and contributions to the open-source community. <br/>
-🔗 Let's connect! Feel free to reach out for collaboration opportunities, code reviews, or just to chat about all things web development.
+  
+- 📂 Check out my GitHub repositories to see my latest projects, code samples, and contributions to the open-source community.
+  
+- 🔗 Let's connect! Feel free to reach out for collaboration opportunities, code reviews, or just to chat about all things web development.
 
 ## 🌐 Connect With Me:
 <p align="left">
