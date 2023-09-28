@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1q1qPfQvi9Gfb-IQ2fIILOmwQoh03kykg)
 
-📂 Check out my GitHub repositories to see my latest projects, code samples, and contributions to the open-source community.
+📂 Check out my GitHub repositories to see my latest projects, code samples, and contributions to the open-source community. <br/>
 🔗 Let's connect! Feel free to reach out for collaboration opportunities, code reviews, or just to chat about all things web development.
 
 ## 🌐 Connect With Me:
