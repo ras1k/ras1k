@@ -9,7 +9,7 @@
   
 - 🔰 I'm passionate about creating dynamic and responsive web applications.
   
-- 🌱 I’m currently learning **NextJs, Redux**
+- 🌱 I’m currently learning **NextJs, Redux, TypeScript**
   
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ras1k-portfolio.vercel.app/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rasikabdullah@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1q1qPfQvi9Gfb-IQ2fIILOmwQoh03kykg)
+- 📄 Know about myexperiencess [Resume](https://drive.google.com/drive/folders/1q1qPfQvi9Gfb-IQ2fIILOmwQoh03kykg)
   
 - 📂 Check out my GitHub repositories to see my latest projects, code samples, and contributions to the open-source community.
   
