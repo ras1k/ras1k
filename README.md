@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rasikabdullah@gmail.com**
 
-- 📄 Know about myexperiencess [Resume](https://drive.google.com/drive/folders/1q1qPfQvi9Gfb-IQ2fIILOmwQoh03kykg)
+- 📄 Know about myexperiencess here is my [Resume](https://drive.google.com/drive/folders/1q1qPfQvi9Gfb-IQ2fIILOmwQoh03kykg)
   
 - 📂 Check out my GitHub repositories to see my latest projects, code samples, and contributions to the open-source community.
   
