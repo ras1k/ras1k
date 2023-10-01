@@ -50,12 +50,6 @@
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<h4><b>Hashnode</b></h4>
-<p align="left">
-<a href="https://injamulcse15.hashnode.dev/what-is-dom-manipulation-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/JCkC3DY/Screenshot-8.png" height="250" width="32%" /></a> <a href="https://injamulcse15.hashnode.dev/javascript-string-methods-at-a-glance-for-beginners" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/yfhPV11/Screenshot-9.png" height="250" width="32%" /></a> <a href="https://injamulcse15.hashnode.dev/what-is-the-difference-between-double-equal-and-triple-equal-in-javascript" target="blank"><img align="center" style="border-radius: 10px;" src="https://i.ibb.co/q7LDXQh/Screenshot-10.png" height="250" width="32%" /></a> 
-</p>
-<!-- BLOG-POST-LIST:END -->
+
 
 
