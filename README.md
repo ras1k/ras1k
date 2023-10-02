@@ -3,7 +3,7 @@
 
 <img width="1000" align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
 
-<p align="left"> <a href="https://twitter.com/ras1k_" target="_blank"><img src="https://img.shields.io/twitter/ras1k_?logo=twitter&style=for-the-badge" alt="ras1k_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ras1k_" target="_blank"><img src="https://img.shields.io/twitter/follow/ras1k_?logo=twitter&style=for-the-badge" alt="ras1k_" /></a> </p>
 
 - 🌐 I specialize in crafting delightful user experiences with React.js.
   
