@@ -8,7 +8,7 @@
 
 
 
-- 🌐 I specialize in crafting delightful user experiences with React.js.
+- 🌐 I specialize in crafting delightful user experiences with React.js & Vue.js.
   
 - 🔰 I'm passionate about creating dynamic and responsive web applications.
   
