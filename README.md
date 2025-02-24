@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasik Abdullah</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Frontend+Developer;React.Js+Developer;Tech+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Frontend+Developer;React.Js+Developer;Vue.Js+Developer;Tech+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <!-- <h3 align="left">💻 Computer Science Graduate | Front-End Web Developer | React.js Enthusiast</h3> -->
 
